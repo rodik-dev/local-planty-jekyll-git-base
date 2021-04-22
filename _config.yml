@@ -43,3 +43,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://local-planty-jekyll-git-base-209f2.netlify.app'
